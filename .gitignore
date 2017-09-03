@@ -15,3 +15,5 @@
 /log/*
 !/log/.keep
 /tmp
+# ignore all images uploaded
+/public/system/movies/images/
