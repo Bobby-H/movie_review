@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+#bootstrap for styling
+gem 'bootstrap-sass', '~> 3.2.0.2'
 #for image upload
 gem 'paperclip', '~> 4.2.0'
 #for user authentication
