@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+#for challonge brackets
+gem 'challonge-api'
 #bootstrap for styling
 gem 'bootstrap-sass', '~> 3.2.0.2'
 #for image upload
