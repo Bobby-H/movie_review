@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :tournaments
   devise_for :users
   resources :movies do
     resources :reviews, except: [:show, :index]
