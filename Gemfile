@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+#for SQL searching
+gem 'searchkick', '~> 0.8.3'
 #bootstrap for styling
 gem 'bootstrap-sass', '~> 3.2.0.2'
 #for image upload
